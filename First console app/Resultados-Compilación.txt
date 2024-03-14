@@ -1,0 +1,5 @@
+﻿1>------ Se ha iniciado la ejecución del comando Compilar; proyecto: Second console app, configuración: Debug|AnyCPU ------
+1>C:\Users\Archie\source\repos\First console app\Second console app\Program.cs(11,34,11,52): warning CS8604: Posible argumento de referencia nulo para el parámetro "s" en "int int.Parse(string s)".
+1>C:\Users\Archie\source\repos\First console app\Second console app\Program.cs(14,34,14,52): warning CS8604: Posible argumento de referencia nulo para el parámetro "s" en "int int.Parse(string s)".
+1>  Second console app -> C:\Users\Archie\source\repos\First console app\Second console app\bin\Debug\net8.0\Second console app.dll
+========== Compilar: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========

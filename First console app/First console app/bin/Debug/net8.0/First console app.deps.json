@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "First console app/1.0.0": {
+        "runtime": {
+          "First console app.dll": {}
+        }
+      },
+      "Shared logic - Class Library/1.0.0": {
+        "runtime": {
+          "Shared logic - Class Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First console app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared logic - Class Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
